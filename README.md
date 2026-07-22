@@ -4,6 +4,15 @@ Mobile marketplace for handmade products, local brands and small sellers.
 
 The app was built around seller storefronts, product publishing, product catalog, buyer communication and order management.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/b9b1dd251553277.6a3996430a73d.png" alt="URFA marketplace app screens" width="78%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/251553277/URFA-Handmade-Local-Brands-Marketplace)
+
 ---
 
 ## My role
